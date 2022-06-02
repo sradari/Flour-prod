@@ -1,0 +1,2 @@
+[oracle]
+server1  ansible_host=192.168.154.20
